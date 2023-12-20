@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stocks Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1 style="text-align: center;">Stock Market Analysis</h1>
+    <div class="container">
+      <div id="chart-details">
+        <div class="chart-container">
+          <canvas id="myChart"></canvas>
+          <div class="chart-buttons">
+            <button onclick="changeChartData('1mo')">1 Month</button>
+            <button onclick="changeChartData('3mo')">3 Months</button>
+            <button onclick="changeChartData('1y')">1 Year</button>
+            <button onclick="changeChartData('5y')">5 Years</button>
+          </div>
+        </div>
+        <div class="details-container">
+          <div id="stock-details"></div>
+        </div>
+      </div>
+      <div class="buttons-container" id="buttons-container">
+        <!-- Buttons will be dynamically added here using JavaScript -->
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-crosshair"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
