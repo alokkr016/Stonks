@@ -6,7 +6,7 @@ Welcome to the **Stocks Dashboard**! 🎉 This web application is your portal to
 
 ## Access 🌍
 
-Visit [https://alokdev.live/Stonks/](https://alokdev.live/Stocks/) to dive into the Stocks Dashboard magic. ✨
+Visit [https://alokdev.live/Stonks/](https://alokdev.live/Stonks/) to dive into the Stocks Dashboard magic. ✨
 
 ## Features 🚀
 
@@ -36,4 +36,4 @@ This application is a concoction of HTML, CSS, and JavaScript. Feel free to expl
 
 ## Author 👨‍🚀
 
-Crafted with ❤️ and coded by Alok Kumar. 🚀🤓
+Crafted with ❤️ and coded by [Alok Kumar](https://twitter.com/alokkr016). 🚀🤓
