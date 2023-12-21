@@ -6,7 +6,7 @@ Welcome to the **Stocks Dashboard**! 🎉 This web application is your portal to
 
 ## Access 🌍
 
-Visit [https://alokdev.live/Stocks/](https://alokdev.live/Stocks/) to dive into the Stocks Dashboard magic. ✨
+Visit [https://alokdev.live/Stonks/](https://alokdev.live/Stocks/) to dive into the Stocks Dashboard magic. ✨
 
 ## Features 🚀
 
